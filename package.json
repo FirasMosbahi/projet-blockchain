@@ -1,0 +1,28 @@
+{
+  "name": "z-wallet",
+  "version": "1.0.0",
+  "description": "a blockchain wallet for financial uses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.3",
+    "@openzeppelin/test-helpers": "^0.5.16",
+    "axios": "^1.4.0",
+    "dotenv": "^16.0.3",
+    "ethers": "^5.7.0",
+    "node-fetch": "^3.3.1",
+    "prettier": "^2.8.8",
+    "react-bootstrap": "^2.7.4",
+    "react-multi-carousel": "^2.8.4",
+    "react-router-dom": "^6.11.2",
+    "truffle": "^5.8.4",
+    "web3": "^1.10.0"
+  },
+  "devDependencies": {
+    "chai": "^4.3.7"
+  }
+}
